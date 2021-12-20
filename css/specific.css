@@ -1,1 +1,43 @@
+.mapDiv svg{
+  height: 490px;
+  width: auto;
+}
 
+.mapDiv svg path{
+cursor: pointer;
+}
+
+.mapDiv svg path.active{
+	fill: #F58D3A;
+  /* orange */
+}
+
+table{
+  position: absolute;
+  right: 0;
+  top: 20%;
+  width: 430px;
+  height: 155px;
+  font-size: 15px;
+  text-align: center;
+}
+
+table thead{
+  background: black;
+  color:white;
+}
+
+table td{
+  border: 1px solid black;
+}
+
+.tableClose{
+  position: absolute;
+  top: 20.5%;
+  right: 5px;
+  height: 14px;
+  width: 14px;
+  cursor: pointer;
+  z-index: 2;
+  color: white;
+}
