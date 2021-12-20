@@ -1,0 +1,14 @@
+1. Make JSON file including all data
+- or you can start with few data first
+
+2. Use the map svg file and save it to your folder structure.
+3. Load this svg file inside your required div.
+
+4. Open the browser, and inspect the SVG file.
+5. Match the Map state with Map on Google. In respective state path, add the state name
+same as you added in your JSON file.
+
+6. Once you are done with mapping the state, you can now create the function in javascript to fetch
+data on respective state click.
+
+7. Next the step is to pass this data, to the html element so its visible.
