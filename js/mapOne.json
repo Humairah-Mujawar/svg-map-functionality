@@ -1,0 +1,920 @@
+[
+  {
+    "State": "Alabama",
+    "number": {
+      "18to64years": "1,688",
+      "White": "1,045",
+      "Black": "533",
+      "Hispanic": "19",
+      "Others": "77"
+    },
+    "percent": {
+      "18to64years": "29.4",
+      "White": "30.9",
+      "Black": "25.0",
+      "Hispanic": "NR",
+      "Others": "39.5"
+    }
+  },
+
+  {
+    "State": "Alaska",
+    "number": {
+      "18to64years": "611",
+      "White": "385",
+      "Black": "14",
+      "Hispanic": "17",
+      "Others": "188"
+    },
+    "percent": {
+      "18to64years": "24.3",
+      "White": "25.6",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "25.7"
+    }
+  },
+
+  {
+    "State": "Arizona",
+    "number": {
+      "18to64years": "1,603",
+      "White": "973",
+      "Black": "36",
+      "Hispanic": "290",
+      "Others": "267"
+    },
+    "percent": {
+      "18to64years": "30.5",
+      "White": "35.1",
+      "Black": "NR",
+      "Hispanic": "26.4",
+      "Others": "18.9"
+    }
+  },
+
+  {
+    "State": "Arkansas",
+    "number": {
+      "18to64years": "1,106",
+      "White": "791",
+      "Black": "205",
+      "Hispanic": "25",
+      "Others": "75"
+    },
+    "percent": {
+      "18to64years": "32.2",
+      "White": "30.9",
+      "Black": "37.3",
+      "Hispanic": "NR",
+      "Others": "41.4"
+    }
+  },
+
+  {
+    "State": "California",
+    "number": {
+      "18to64years": "2,327",
+      "White": "951",
+      "Black": "141",
+      "Hispanic": "887",
+      "Others": "303"
+    },
+    "percent": {
+      "18to64years": "29.0",
+      "White": "36.6",
+      "Black": "28.9",
+      "Hispanic": "19.6",
+      "Others": "34.2"
+    }
+  },
+
+  {
+    "State": "Colorado",
+    "number": {
+      "18to64years": "1,532",
+      "White": "1,041",
+      "Black": "46",
+      "Hispanic": "308",
+      "Others": "91"
+    },
+    "percent": {
+      "18to64years": "30.0",
+      "White": "32.7",
+      "Black": "33.5",
+      "Hispanic": "23.2",
+      "Others": "25.7"
+    }
+  },
+
+  {
+    "State": "Connecticut",
+    "number": {
+      "18to64years": "1,977",
+      "White": "1,422",
+      "Black": "209",
+      "Hispanic": "208",
+      "Others": "111"
+    },
+    "percent": {
+      "18to64years": "28.8",
+      "White": "30.3",
+      "Black": "29.9",
+      "Hispanic": "21.9",
+      "Others": "29.9"
+    }
+  },
+
+  {
+    "State": "Delaware",
+    "number": {
+      "18to64years": "1,192",
+      "White": "768",
+      "Black": "210",
+      "Hispanic": "123",
+      "Others": "73"
+    },
+    "percent": {
+      "18to64years": "29.8",
+      "White": "31.8",
+      "Black": "29.2",
+      "Hispanic": "18.1",
+      "Others": "25.6"
+    }
+  },
+
+  {
+    "State": "District of Colombia",
+    "number": {
+      "18to64years": "818",
+      "White": "188",
+      "Black": "507",
+      "Hispanic": "41",
+      "Others": "63"
+    },
+    "percent": {
+      "18to64years": "35.1",
+      "White": "39.1",
+      "Black": "35.9",
+      "Hispanic": "20.5",
+      "Others": "33.8"
+    }
+  },
+
+  {
+    "State": "Florida",
+    "number": {
+      "18to64years": "3,390",
+      "White": "2,399",
+      "Black": "375",
+      "Hispanic": "369",
+      "Others": "190"
+    },
+    "percent": {
+      "18to64years": "25.9",
+      "White": "30.0",
+      "Black": "23.3",
+      "Hispanic": "18.5",
+      "Others": "20.3"
+    }
+  },
+
+  {
+    "State": "Georgia",
+    "number": {
+      "18to64years": "1,990",
+      "White": "1,143",
+      "Black": "530",
+      "Hispanic": "166",
+      "Others": "121"
+    },
+    "percent": {
+      "18to64years": "27.7",
+      "White": "29.1",
+      "Black": "27.3",
+      "Hispanic": "16.7",
+      "Others": "28.6"
+    }
+  },
+
+  {
+    "State": "Hawaii",
+    "number": {
+      "18to64years": "1,571",
+      "White": "400",
+      "Black": "20",
+      "Hispanic": "198",
+      "Others": "936"
+    },
+    "percent": {
+      "18to64years": "25.2",
+      "White": "32.6",
+      "Black": "NR",
+      "Hispanic": "17.1",
+      "Others": "25.1"
+    }
+  },
+
+  {
+    "State": "Idaho",
+    "number": {
+      "18to64years": "670",
+      "White": "552",
+      "Black": "5",
+      "Hispanic": "55",
+      "Others": "48"
+    },
+    "percent": {
+      "18to64years": "28.3",
+      "White": "28.5",
+      "Black": "NR",
+      "Hispanic": "30.5",
+      "Others": "30.0"
+    }
+  },
+
+  {
+    "State": "Illinois",
+    "number": {
+      "18to64years": "1,176",
+      "White": "727",
+      "Black": "204",
+      "Hispanic": "177",
+      "Others": "58"
+    },
+    "percent": {
+      "18to64years": "28.3",
+      "White": "29.4",
+      "Black": "31.2",
+      "Hispanic": "24.7",
+      "Others": "NR"
+    }
+  },
+
+  {
+    "State": "Indiana",
+    "number": {
+      "18to64years": "1,754",
+      "White": "1,387",
+      "Black": "176",
+      "Hispanic": "71",
+      "Others": "101"
+    },
+    "percent": {
+      "18to64years": "31.6",
+      "White": "32.5",
+      "Black": "30.6",
+      "Hispanic": "24.6",
+      "Others": "30.0"
+    }
+  },
+
+  {
+    "State": "Iowa",
+    "number": {
+      "18to64years": "1,912",
+      "White": "1,669",
+      "Black": "52",
+      "Hispanic": "94",
+      "Others": "80"
+    },
+    "percent": {
+      "18to64years": "33.9",
+      "White": "34.6",
+      "Black": "30.5",
+      "Hispanic": "20.8",
+      "Others": "36.0"
+    }
+  },
+
+  {
+    "State": "Kansas",
+    "number": {
+      "18to64years": "2,214",
+      "White": "1,818",
+      "Black": "127",
+      "Hispanic": "110",
+      "Others": "131"
+    },
+    "percent": {
+      "18to64years": "30.3",
+      "White": "31.8",
+      "Black": "29.7",
+      "Hispanic": "22.4",
+      "Others": "25.9"
+    }
+  },
+
+  {
+    "State": "Kentucky",
+    "number": {
+      "18to64years": "2,485",
+      "White": "2,089",
+      "Black": "220",
+      "Hispanic": "36",
+      "Others": "116"
+    },
+    "percent": {
+      "18to64years": "31.8",
+      "White": "32.0",
+      "Black": "28.9",
+      "Hispanic": "NR",
+      "Others": "47.0"
+    }
+  },
+
+  {
+    "State": "Louisiana",
+    "number": {
+      "18to64years": "1,375",
+      "White": "874",
+      "Black": "361",
+      "Hispanic": "35",
+      "Others": "78"
+    },
+    "percent": {
+      "18to64years": "30.2",
+      "White": "31.6",
+      "Black": "24.4",
+      "Hispanic": "42.7",
+      "Others": "37.5"
+    }
+  },
+
+  {
+    "State": "Maine",
+    "number": {
+      "18to64years": "2,208",
+      "White": "1,995",
+      "Black": "8",
+      "Hispanic": "41",
+      "Others": "134"
+    },
+    "percent": {
+      "18to64years": "32.2",
+      "White": "32.8",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "30.3"
+    }
+  },
+
+  {
+    "State": "Maryland",
+    "number": {
+      "18to64years": "3,197",
+      "White": "2,004",
+      "Black": "811",
+      "Hispanic": "134",
+      "Others": "204"
+    },
+    "percent": {
+      "18to64years": "33.9",
+      "White": "34.3",
+      "Black": "36.2",
+      "Hispanic": "26.8",
+      "Others": "24.6"
+    }
+  },
+
+  {
+    "State": "Massachusetts",
+    "number": {
+      "18to64years": "1,214",
+      "White": "911",
+      "Black": "68",
+      "Hispanic": "130",
+      "Others": "78"
+    },
+    "percent": {
+      "18to64years": "32.0",
+      "White": "33.4",
+      "Black": "38.6",
+      "Hispanic": "29.3",
+      "Others": "18.9"
+    }
+  },
+
+  {
+    "State": "Michigan",
+    "number": {
+      "18to64years": "2,423",
+      "White": "1,812",
+      "Black": "313",
+      "Hispanic": "93",
+      "Others": "162"
+    },
+    "percent": {
+      "18to64years": "35.5",
+      "White": "35.7",
+      "Black": "32.6",
+      "Hispanic": "35.6",
+      "Others": "34.4"
+    }
+  },
+
+  {
+    "State": "Minnesota",
+    "number": {
+      "18to64years": "3,423",
+      "White": "2,827",
+      "Black": "155",
+      "Hispanic": "152",
+      "Others": "254"
+    },
+    "percent": {
+      "18to64years": "30.5",
+      "White": "31.2",
+      "Black": "32.9",
+      "Hispanic": "20.4",
+      "Others": "26.3"
+    }
+  },
+
+  {
+    "State": "Mississippi",
+    "number": {
+      "18to64years": "1,628",
+      "White": "845",
+      "Black": "712",
+      "Hispanic": "11",
+      "Others": "48"
+    },
+    "percent": {
+      "18to64years": "25.2",
+      "White": "28.1",
+      "Black": "22.0",
+      "Hispanic": "NR",
+      "Others": "19.9"
+    }
+  },
+
+  {
+    "State": "Missouri",
+    "number": {
+      "18to64years": "1,365",
+      "White": "1,088",
+      "Black": "155",
+      "Hispanic": "31",
+      "Others": "72"
+    },
+    "percent": {
+      "18to64years": "33.1",
+      "White": "32.7",
+      "Black": "38.1",
+      "Hispanic": "NR",
+      "Others": "32.0"
+    }
+  },
+
+  {
+    "State": "Montana",
+    "number": {
+      "18to64years": "1,173",
+      "White": "835",
+      "Black": "8",
+      "Hispanic": "32",
+      "Others": "284"
+    },
+    "percent": {
+      "18to64years": "33.6",
+      "White": "34.3",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "31.1"
+    }
+  },
+
+  {
+    "State": "Nebraska",
+    "number": {
+      "18to64years": "2,931",
+      "White": "2,452",
+      "Black": "78",
+      "Hispanic": "220",
+      "Others": "147"
+    },
+    "percent": {
+      "18to64years": "31.5",
+      "White": "32.2",
+      "Black": "28.5",
+      "Hispanic": "28.3",
+      "Others": "26.6"
+    }
+  },
+
+  {
+    "State": "Nevada",
+    "number": {
+      "18to64years": "687",
+      "White": "426",
+      "Black": "38",
+      "Hispanic": "123",
+      "Others": "86"
+    },
+    "percent": {
+      "18to64years": "28.4",
+      "White": "36.0",
+      "Black": "NR",
+      "Hispanic": "24.4",
+      "Others": "23.8"
+    }
+  },
+
+  {
+    "State": "New Hampshire",
+    "number": {
+      "18to64years": "1,125",
+      "White": "1,027",
+      "Black": "11",
+      "Hispanic": "20",
+      "Others": "53"
+    },
+    "percent": {
+      "18to64years": "35.3",
+      "White": "35.9",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "32.1"
+    }
+  },
+
+  {
+    "State": "New Jersey",
+    "number": {
+      "18to64years": "640",
+      "White": "389",
+      "Black": "88",
+      "Hispanic": "99",
+      "Others": "48"
+    },
+    "percent": {
+      "18to64years": "25.9",
+      "White": "28.4",
+      "Black": "27.5",
+      "Hispanic": "20.4",
+      "Others": "NR"
+    }
+  },
+
+  {
+    "State": "New Mexico",
+    "number": {
+      "18to64years": "1,516",
+      "White": "687",
+      "Black": "18",
+      "Hispanic": "554",
+      "Others": "227"
+    },
+    "percent": {
+      "18to64years": "32.5",
+      "White": "38.8",
+      "Black": "NR",
+      "Hispanic": "28.6",
+      "Others": "30.9"
+    }
+  },
+
+  {
+    "State": "New York",
+    "number": {
+      "18to64years": "7,925",
+      "White": "5,802",
+      "Black": "599",
+      "Hispanic": "718",
+      "Others": "663"
+    },
+    "percent": {
+      "18to64years": "26.2",
+      "White": "27.8",
+      "Black": "29.7",
+      "Hispanic": "22.2",
+      "Others": "19.8"
+    }
+  },
+
+  {
+    "State": "North Carolina",
+    "number": {
+      "18to64years": "1,103",
+      "White": "685",
+      "Black": "244",
+      "Hispanic": "85",
+      "Others": "74"
+    },
+    "percent": {
+      "18to64years": "34.2",
+      "White": "35.1",
+      "Black": "36.9",
+      "Hispanic": "23.3",
+      "Others": "33.1"
+    }
+  },
+
+  {
+    "State": "North Dakota",
+    "number": {
+      "18to64years": "1,087",
+      "White": "920",
+      "Black": "20",
+      "Hispanic": "22",
+      "Others": "119"
+    },
+    "percent": {
+      "18to64years": "32.1",
+      "White": "33.5",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "33.1"
+    }
+  },
+
+  {
+    "State": "Ohio",
+    "number": {
+      "18to64years": "3,190",
+      "White": "2,705",
+      "Black": "236",
+      "Hispanic": "70",
+      "Others": "143"
+    },
+    "percent": {
+      "18to64years": "32.0",
+      "White": "32.1",
+      "Black": "29.8",
+      "Hispanic": "34.5",
+      "Others": "32.4"
+    }
+  },
+
+  {
+    "State": "Oklahoma",
+    "number": {
+      "18to64years": "1,224",
+      "White": "846",
+      "Black": "84",
+      "Hispanic": "76",
+      "Others": "208"
+    },
+    "percent": {
+      "18to64years": "35.1",
+      "White": "37.0",
+      "Black": "28.9",
+      "Hispanic": "NR",
+      "Others": "35.9"
+    }
+  },
+
+  {
+    "State": "Oregon",
+    "number": {
+      "18to64years": "1,305",
+      "White": "1,035",
+      "Black": "20",
+      "Hispanic": "115",
+      "Others": "108"
+    },
+    "percent": {
+      "18to64years": "37.8",
+      "White": "38.3",
+      "Black": "NR",
+      "Hispanic": "25.4",
+      "Others": "44.3"
+    }
+  },
+
+  {
+    "State": "Pennsylvania",
+    "number": {
+      "18to64years": "1,402",
+      "White": "1,049",
+      "Black": "202",
+      "Hispanic": "73",
+      "Others": "62"
+    },
+    "percent": {
+      "18to64years": "32.3",
+      "White": "33.4",
+      "Black": "35.4",
+      "Hispanic": "21.1",
+      "Others": "20.8"
+    }
+  },
+
+  {
+    "State": "Rhode Island",
+    "number": {
+      "18to64years": "1,207",
+      "White": "959",
+      "Black": "44",
+      "Hispanic": "105",
+      "Others": "83"
+    },
+    "percent": {
+      "18to64years": "34.4",
+      "White": "37.0",
+      "Black": "39.6",
+      "Hispanic": "21.9",
+      "Others": "32.1"
+    }
+  },
+
+  {
+    "State": "South Carolina",
+    "number": {
+      "18to64years": "2,254",
+      "White": "1,314",
+      "Black": "713",
+      "Hispanic": "66",
+      "Others": "115"
+    },
+    "percent": {
+      "18to64years": "27.8",
+      "White": "28.3",
+      "Black": "26.8",
+      "Hispanic": "23.0",
+      "Others": "31.7"
+    }
+  },
+
+  {
+    "State": "South Dakota",
+    "number": {
+      "18to64years": "1,516",
+      "White": "948",
+      "Black": "12",
+      "Hispanic": "36",
+      "Others": "503"
+    },
+    "percent": {
+      "18to64years": "26.5",
+      "White": "24.8",
+      "Black": "NR",
+      "Hispanic": "56.7",
+      "Others": "27.0"
+    }
+  },
+
+  {
+    "State": "Tennessee",
+    "number": {
+      "18to64years": "1,380",
+      "White": "1,099",
+      "Black": "174",
+      "Hispanic": "30",
+      "Others": "65"
+    },
+    "percent": {
+      "18to64years": "30.8",
+      "White": "29.5",
+      "Black": "29.4",
+      "Hispanic": "56.4",
+      "Others": "48.1"
+    }
+  },
+
+  {
+    "State": "Texas",
+    "number": {
+      "18to64years": "2,215",
+      "White": "1,250",
+      "Black": "265",
+      "Hispanic": "514",
+      "Others": "142"
+    },
+    "percent": {
+      "18to64years": "26.7",
+      "White": "31.5",
+      "Black": "28.7",
+      "Hispanic": "19.4",
+      "Others": "27.0"
+    }
+  },
+
+  {
+    "State": "Utah",
+    "number": {
+      "18to64years": "1,896",
+      "White": "1,558",
+      "Black": "20",
+      "Hispanic": "196",
+      "Others": "97"
+    },
+    "percent": {
+      "18to64years": "32.5",
+      "White": "34.5",
+      "Black": "NR",
+      "Hispanic": "22.2",
+      "Others": "34.7"
+    }
+  },
+
+  {
+    "State": "Vermont",
+    "number": {
+      "18to64years": "1,271",
+      "White": "1,158",
+      "Black": "7",
+      "Hispanic": "16",
+      "Others": "80"
+    },
+    "percent": {
+      "18to64years": "38.6",
+      "White": "39.2",
+      "Black": "NR",
+      "Hispanic": "NR",
+      "Others": "29.8"
+    }
+  },
+
+  {
+    "State": "Virginia",
+    "number": {
+      "18to64years": "2,243",
+      "White": "1,526",
+      "Black": "404",
+      "Hispanic": "108",
+      "Others": "158"
+    },
+    "percent": {
+      "18to64years": "29.0",
+      "White": "30.3",
+      "Black": "25.5",
+      "Hispanic": "23.6",
+      "Others": "30.6"
+    }
+  },
+
+  {
+    "State": "Washington",
+    "number": {
+      "18to64years": "2,278",
+      "White": "1,762",
+      "Black": "51",
+      "Hispanic": "190",
+      "Others": "240"
+    },
+    "percent": {
+      "18to64years": "36.1",
+      "White": "38.1",
+      "Black": "31.6",
+      "Hispanic": "23.7",
+      "Others": "34.0"
+    }
+  },
+
+  {
+    "State": "West Virginia",
+    "number": {
+      "18to64years": "1,445",
+      "White": "1,322",
+      "Black": "38",
+      "Hispanic": "21",
+      "Others": "50"
+    },
+    "percent": {
+      "18to64years": "34.7",
+      "White": "34.5",
+      "Black": "34.0",
+      "Hispanic": "NR",
+      "Others": "28.7"
+    }
+  },
+
+  {
+    "State": "Wisconsin",
+    "number": {
+      "18to64years": "1,075",
+      "White": "851",
+      "Black": "55",
+      "Hispanic": "45",
+      "Others": "110"
+    },
+    "percent": {
+      "18to64years": "31.2",
+      "White": "32.1",
+      "Black": "NR",
+      "Hispanic": "28.3",
+      "Others": "30.8"
+    }
+  },
+
+  {
+    "State": "Wyoming",
+    "number": {
+      "18to64years": "894",
+      "White": "750",
+      "Black": "2",
+      "Hispanic": "88",
+      "Others": "40"
+    },
+    "percent": {
+      "18to64years": "27.9",
+      "White": "28.2",
+      "Black": "NR",
+      "Hispanic": "20.1",
+      "Others": "33.0"
+    }
+  }
+
+]
